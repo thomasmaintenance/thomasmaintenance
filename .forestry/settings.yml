@@ -16,9 +16,6 @@ sections:
 - path: content/about
   label: About
   create: all
-- path: content/pricing
-  label: Pricing
-  create: all
 upload_dir: static/img
 public_path: "/img"
 front_matter_path: ''
