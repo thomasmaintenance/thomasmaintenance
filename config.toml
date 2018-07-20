@@ -12,3 +12,8 @@ theme = "landing-page-hugo"
 	title = "email"
 	icon = "envelope-o"
 	url = "mailto:info@thomasmaintenace.com"
+
+[[params.social]]
+	title = "phone"
+	icon = "phone-o"
+	url = ""
