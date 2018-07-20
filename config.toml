@@ -14,6 +14,6 @@ theme = "landing-page-hugo"
 	url = "mailto:info@thomasmaintenace.com"
 
 [[params.social]]
-	title = "phone"
+	title = "Tel: (604) 202-2542"
 	icon = "phone-o"
-	url = "(604) 202-2542"
+	url = ""
