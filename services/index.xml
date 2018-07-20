@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Thomas Maintenance</title>
+    <link>http://www.thomasmaintenance.com/services/</link>
+    <description>Recent content in Services on Thomas Maintenance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jul 2015 14:08:29 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.thomasmaintenance.com/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>We provide a wide range of Janitorial Services...</title>
+      <link>http://www.thomasmaintenance.com/services/intro/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:29 +0200</pubDate>
+      
+      <guid>http://www.thomasmaintenance.com/services/intro/</guid>
+      <description> Power washing Professional Carpet Cleaning Window Cleaning Lighting and balast replacement </description>
+    </item>
+    
+    <item>
+      <title>Recycling Bin Services</title>
+      <link>http://www.thomasmaintenance.com/services/second/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:45 +0200</pubDate>
+      
+      <guid>http://www.thomasmaintenance.com/services/second/</guid>
+      <description>We will maintain your recycling area and ensure that all recycling bins are placed at curbside on pick up days. Contact us for a quote for this service.
+Professional Look For security reasons while on site we wear a uniform bearing the Thomas Maintenance Logo. This lends to a professional look and at the same time identifies us as maintenance personal. Picture identification tags can be worn if requested.</description>
+    </item>
+    
+    <item>
+      <title>Quality Control</title>
+      <link>http://www.thomasmaintenance.com/services/third/</link>
+      <pubDate>Sat, 18 Jul 2015 14:53:21 +0200</pubDate>
+      
+      <guid>http://www.thomasmaintenance.com/services/third/</guid>
+      <description>To ensure that a high standard of cleanliness is maintained, all buildings are inspected regularly as to meet or exceed the standard set out by the client.
+What is WHMIS? Workplace Hazardous Materials Information System. We ensure safe usage and storage of all cleaning compounds used on premises. We are registered with the Worker&amp;rsquo;s Compensation Board of B.C. For any further information concerning our WCB coverage and insurance please contact us</description>
+    </item>
+    
+  </channel>
+</rss>

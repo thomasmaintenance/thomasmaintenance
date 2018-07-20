@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Thomas Maintenance</title>
+    <link>http://www.thomasmaintenance.com/about/</link>
+    <description>Recent content in Abouts on Thomas Maintenance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jul 2015 14:08:35 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.thomasmaintenance.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Thomas Maintenance</title>
+      <link>http://www.thomasmaintenance.com/about/about/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
+      
+      <guid>http://www.thomasmaintenance.com/about/about/</guid>
+      <description>Our guarantee to our clients is to provide a professional efficient janitorial service. To be successful in this highly competitive business requires a keen attention to detail. Therefore we are continually aware of the interests of the condominium owner and we show this by working hard at maintaining a high standard of cleanliness through out all common areas. Why? Because these areas are extensions of your home or business.</description>
+    </item>
+    
+  </channel>
+</rss>
