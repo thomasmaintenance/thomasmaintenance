@@ -16,4 +16,4 @@ theme = "landing-page-hugo"
 [[params.social]]
 	title = "Tel: (604) 202-2542"
 	icon = "phone-o"
-	url = ""
+	url = "tel:+16042022452"
