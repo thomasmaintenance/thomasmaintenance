@@ -3,7 +3,7 @@ date = "2015-07-18T14:08:35+02:00"
 title = "About Thomas Maintenance"
 
 +++
-Our guarantee to our clients is to provide a professional efficient janitorial service.  A keen attention to detail is important.
+Since 1990 our guarantee to our clients has to provide a professional efficient janitorial service.  A keen attention to detail is important. 
 
 ### Communication
 
@@ -15,6 +15,6 @@ We always display a courteous and friendly attitude which brings a greater perso
 
 ### Working with your Property Management Company
 
-Over the years we have built up a fine reputation with a number of property management companies. With recent changes to the Strata Property Act, the workload for Property Managers has greatly increased. Therefore it is important that we continue to be an efficient janitorial service. 
+Over the years we have built up a fine reputation with a number of property management companies. With recent changes to the Strata Property Act, the workload for Property Managers has greatly increased. Therefore it is important that we continue to be an efficient janitorial service.
 
 Our company has in place liability Insurance. We are registered with the Worker's Compensation Board of B.C. We have completed the WCB - Workplace Hazardous Materials Information System (WHMIS) course to ensure safe usage and storage of all cleaning compounds used on premises. For any further information concerning our WCB coverage and insurance please contact us.
