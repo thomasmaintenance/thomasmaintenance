@@ -11,4 +11,4 @@ weight = 1
 
 ### Window Cleaning
 
-### Lamp Replacement
+### Commercial Floor Scrubbing/Buffing
