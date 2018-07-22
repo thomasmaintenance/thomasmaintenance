@@ -12,3 +12,8 @@ weight = 1
 ### Window Cleaning
 
 ### Commercial Floor Scrubbing/Buffing
+
+### Recycling Bin Services
+
+We will maintain your recycling areas and ensure that all recycling and organics bins are placed at curbside on pick up days. 
+
