@@ -5,7 +5,7 @@ theme = "landing-page-hugo"
 title = "Thomas Maintenance"
 [params]
 custom_css = ["css/local.css"]
-description = "Janitorial Services For Residential and Commercial Stratas"
+description = "Janitorial Services For Residential and Commercial Stratas Since 1990"
 [[params.social]]
 icon = "envelope-o"
 title = "email"
