@@ -10,9 +10,6 @@ sections:
 - path: content/services
   label: Services
   create: all
-- path: content/gallery
-  label: Gallery
-  create: all
 - path: content/about
   label: About
   create: all
