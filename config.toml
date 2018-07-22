@@ -1,19 +1,16 @@
 baseurl = "/"
-languageCode = "en-us"
-title = "Thomas Maintenance"
 canonifyUrls = "true"
+languageCode = "en-us"
 theme = "landing-page-hugo"
-
+title = "Thomas Maintenance"
 [params]
-    description = "We Know Stratas"
-    custom_css = ["css/local.css"]
-
+custom_css = ["css/local.css"]
+description = "Janitorial Services For Residential and Commercial Stratas"
 [[params.social]]
-	title = "email"
-	icon = "envelope-o"
-	url = "mailto:info@thomasmaintenace.com"
-
+icon = "envelope-o"
+title = "email"
+url = "mailto:info@thomasmaintenace.com"
 [[params.social]]
-	title = "(604) 202-2542"
-	icon = ""
-	url = "tel:+16042022452"
+icon = ""
+title = "(604) 202-2542"
+url = "tel:+16042022452"
