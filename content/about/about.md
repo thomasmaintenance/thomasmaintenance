@@ -13,8 +13,3 @@ Communication is an integral part of any successful business. We pride ourselves
 
 We always display a courteous and friendly attitude which brings a greater personal touch to the work we do and contributes to a higher degree of client satisfaction.
 
-### Working with your Property Management Company
-
-Over the years we have built up a fine reputation with a number of property management companies. With recent changes to the Strata Property Act, the workload for Property Managers has greatly increased. Therefore it is important that we continue to be an efficient janitorial service.
-
-Our company has in place liability Insurance. We are registered with the Worker's Compensation Board of B.C. We have completed the WCB - Workplace Hazardous Materials Information System (WHMIS) course to ensure safe usage and storage of all cleaning compounds used on premises. For any further information concerning our WCB coverage and insurance please contact us.

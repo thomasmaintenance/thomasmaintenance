@@ -1,6 +1,6 @@
 +++
 date = "2015-07-18T14:08:45+02:00"
-img = "bin30.png"
+img = "janitor30.png"
 title = "Working with your Property Management Company"
 weight = 2
 
