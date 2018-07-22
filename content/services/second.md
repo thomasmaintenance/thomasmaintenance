@@ -5,8 +5,6 @@ title = "Recycling and Organics Bin Services"
 weight = 2
 
 +++
-We will maintain your recycling area and ensure that all recycling bins are placed at curbside on pick up days. Contact us for a quote for this service.
+We will maintain your recycling areas and ensure that all recycling and organics bins are placed at curbside on pick up days. 
 
-
-### Professional Look
-For security reasons while on site we wear a uniform bearing the Thomas Maintenance Logo. This lends to a professional look and at the same time identifies us as maintenance personal. Picture identification tags can be worn if requested.
+### 
