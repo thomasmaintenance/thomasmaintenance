@@ -3,7 +3,7 @@ date = "2015-07-18T14:08:35+02:00"
 title = "About Thomas Maintenance"
 
 +++
-Our guarantee to our clients is to provide a professional efficient janitorial service. To be successful in this highly competitive business requires a keen attention to detail. Therefore we are continually aware of the interests of the condominium owner and we show this by working hard at maintaining a high standard of cleanliness through out all common areas. Why? Because these areas are extensions of your home or business.
+Our guarantee to our clients is to provide a professional efficient janitorial service.  A keen attention to detail is important. 
 
 ### Communication
 
