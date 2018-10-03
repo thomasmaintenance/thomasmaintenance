@@ -4,8 +4,6 @@ auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
-- type: heading
-  label: Data files
 - type: directory
   path: content
   label: Pages
