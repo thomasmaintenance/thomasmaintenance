@@ -11,6 +11,8 @@ sections:
   label: data
   create: all
   match: "**/*"
+- type: heading
+  label: Content
 - type: directory
   path: content
   label: Pages
