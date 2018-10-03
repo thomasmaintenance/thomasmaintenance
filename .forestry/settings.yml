@@ -1,18 +1,24 @@
 ---
 new_page_extension: md
 auto_deploy: true
-admin_path: 
+admin_path: ''
 webhook_url: 
 sections:
-- path: content
+- type: directory
+  path: content
   label: Pages
   create: all
-- path: content/services
+  match: "*"
+- type: directory
+  path: content/services
   label: Services
   create: all
-- path: content/about
+  match: "**/*"
+- type: directory
+  path: content/about
   label: About
   create: all
+  match: "**/*"
 upload_dir: static/img
 public_path: "/img"
 front_matter_path: ''
