@@ -15,7 +15,7 @@ Professional Identification and a courteous friendly attitude results in a highe
 
 ### What Others Are Saying...
 
-#### "We have enjoyed working with TMi since 1990. Always pleased with their team's attention to detail and excellent communication."
+##### "We have enjoyed working with TMi since 1990. Always pleased with their team's attention to detail and excellent communication."
 
 \-- Bunny Porteous, Senior Property Manager First Services Residential
 
