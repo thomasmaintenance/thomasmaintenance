@@ -19,14 +19,14 @@ Professional Identification and a courteous friendly attitude results in a highe
 
 \-- Bunny Porteous, Senior Property Manager First Services Residential
 
-#### “Highly Recommend your firm for going the extra mile. Great Staff”
+##### “Highly Recommend your firm for going the extra mile. Great Staff”
 
 \-- Liz Der, Operations Coordinator Gammon International
 
-#### TMi has been steady and reliable for many years comparing with other janitorial contractors we came across in the past years …
+##### TMi has been steady and reliable for many years comparing with other janitorial contractors we came across in the past years …
 
 \-- Andrew Hui, Property Manager Dorset Realty of Canada Ltd
 
-#### "The best thing about the team from Thomas Maintenance was the peace of mind they gave us. You knew that when they left, the building was clean from top to bottom."
+##### "The best thing about the team from Thomas Maintenance was the peace of mind they gave us. You knew that when they left, the building was clean from top to bottom."
 
 \-- C. Montgomery, former president, The Greenhorn
