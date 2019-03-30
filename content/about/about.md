@@ -11,7 +11,7 @@ Communication is an integral part of any successful business. We pride ourselves
 
 ### Our Maintenance Team
 
-We always display a courteous and friendly attitude which brings a greater personal touch to the work we do and contributes to a higher degree of client satisfaction.
+Professional Identification and a courteous friendly attitude results in a higher degree of confidence and client satisfaction.
 
 ### What Others Are Saying...
 
