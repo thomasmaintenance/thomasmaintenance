@@ -27,6 +27,6 @@ We always display a courteous and friendly attitude which brings a greater perso
 
 \-- Andrew Hui, Property Manager Dorset Realty of Canada Ltd
 
-#### "The best thing about the team from Thomas Maintenance was the peace of mind they gave us. You knew that when they left, the building was clean from top to bottom, that it smelled good and that all the little things that matter had happened during their day -- anything in need of repair had been noted, the security doors had all been left closed, the front entrance looked inviting again."
+#### "The best thing about the team from Thomas Maintenance was the peace of mind they gave us. You knew that when they left, the building was clean from top to bottom."
 
 C. Montgomery, former president, The Greenhorn
