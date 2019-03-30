@@ -19,9 +19,7 @@ We always display a courteous and friendly attitude which brings a greater perso
 
 \-- Bunny Porteous, Senior Property Manager First Services Residential
 
-#### “Highly Recommend your firm for going the extra mile.
-
-Great Staff”
+#### “Highly Recommend your firm for going the extra mile. Great Staff”
 
 \-- Liz Der, Operations Coordinator Gammon International
 
