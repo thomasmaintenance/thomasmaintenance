@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Notices on Thomas Maintenance</title><link>/notice/</link><description>Recent content in Notices on Thomas Maintenance</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 30 Mar 2020 14:08:35 +0200</lastBuildDate><atom:link href="/notice/index.xml" rel="self" type="application/rss+xml"/><item><title>A message to our clients and property managers</title><link>/notice/notice/</link><pubDate>Mon, 30 Mar 2020 14:08:35 +0200</pubDate><guid>/notice/notice/</guid><description>Dear Friends, please take extra precautions regarding your personal safety and health during the COVID-19 threat. If you can, try to purchase alcohol 60% or stronger and use it to regularly disinfect your mobile phone, keys, wallet, pc keyboard, door handles in your office and at home or any surfaces where you and others might touch including inside your vehicle. Also avoid touching your face. Wash your hands for at least 20 seconds several times a day.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notices on Thomas Maintenance</title>
+    <link>/notice/</link>
+    <description>Recent content in Notices on Thomas Maintenance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Mar 2020 14:08:35 +0200</lastBuildDate>
+    
+	<atom:link href="/notice/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A message to our clients and property managers</title>
+      <link>/notice/notice/</link>
+      <pubDate>Mon, 30 Mar 2020 14:08:35 +0200</pubDate>
+      
+      <guid>/notice/notice/</guid>
+      <description>Dear Friends, please take extra precautions regarding your personal safety and health during the COVID-19 threat. If you can, try to purchase alcohol 60% or stronger and use it to regularly disinfect your mobile phone, keys, wallet, pc keyboard, door handles in your office and at home or any surfaces where you and others might touch including inside your vehicle. Also avoid touching your face. Wash your hands for at least 20 seconds several times a day.</description>
+    </item>
+    
+  </channel>
+</rss>
