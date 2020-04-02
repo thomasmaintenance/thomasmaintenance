@@ -1,0 +1,16 @@
+baseurl = "/"
+canonifyUrls = "true"
+languageCode = "en-us"
+theme = "landing-page-hugo"
+title = "Thomas Maintenance"
+[params]
+custom_css = ["css/local.css"]
+description = "Janitorial Services for Residential and Commercial Stratas"
+[[params.social]]
+icon = "envelope-o"
+title = "email"
+url = "mailto:info@thomasmaintenace.com"
+[[params.social]]
+icon = ""
+title = "(604) 731-6167"
+url = "tel:+16047316167"
