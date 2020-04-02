@@ -1,0 +1,15 @@
+<!-- Notice Section -->
+<section id="notice" class="container content-section text-center">
+{{ range where .Site.RegularPages "Section" "notice" | first 1 }}
+	<div class="row">
+		<div class="col-lg-8 col-lg-offset-2">
+			<br/>
+			<br/>
+			<h2>{{ .Title }}</h2>
+			<br/>
+			<span style="color:red">{{ .Content }}</span>
+			<br/>
+		</div>
+	</div>
+{{ end }}
+</section>
