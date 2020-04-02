@@ -1,10 +1,8 @@
 +++
-date = "2020-03-18T14:08:35+02:00"
+date = 2020-04-02T22:08:35Z
 title = "What Others are saying..."
 
 +++
-
-
 ##### "We have enjoyed working with TMi since 1990. Always pleased with their team's attention to detail and excellent communication."
 
 \-- Bunny Porteous, Senior Property Manager First Services Residential
