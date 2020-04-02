@@ -26,5 +26,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           pubish_branch: gh-pages
-          publish_dir: ./
+          publish_dir: ./public
           cname: www.thomasmaintenance.com
