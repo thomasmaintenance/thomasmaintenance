@@ -1,5 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recommends on Thomas Maintenance</title><link>/recommend/</link><description>Recent content in Recommends on Thomas Maintenance</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 02 Apr 2020 22:08:35 +0000</lastBuildDate><atom:link href="/recommend/index.xml" rel="self" type="application/rss+xml"/><item><title>What Others are saying...</title><link>/recommend/recommend1/</link><pubDate>Thu, 02 Apr 2020 22:08:35 +0000</pubDate><guid>/recommend/recommend1/</guid><description>&amp;ldquo;We have enjoyed working with TMi since 1990. Always pleased with their team&amp;rsquo;s attention to detail and excellent communication.&amp;rdquo; -- Bunny Porteous, Senior Property Manager First Services Residential
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recommends on Thomas Maintenance</title>
+    <link>/recommend/</link>
+    <description>Recent content in Recommends on Thomas Maintenance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Apr 2020 22:08:35 +0000</lastBuildDate>
+    
+	<atom:link href="/recommend/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What Others are saying...</title>
+      <link>/recommend/recommend1/</link>
+      <pubDate>Thu, 02 Apr 2020 22:08:35 +0000</pubDate>
+      
+      <guid>/recommend/recommend1/</guid>
+      <description>&amp;ldquo;We have enjoyed working with TMi since 1990. Always pleased with their team&amp;rsquo;s attention to detail and excellent communication.&amp;rdquo; -- Bunny Porteous, Senior Property Manager First Services Residential
 “Highly Recommend your firm for going the extra mile. Great Staff” -- Liz Der, Operations Coordinator Gammon International
-TMi has been steady and reliable for many years comparing with other janitorial contractors we came across in the past years … -- Andrew Hui, Property Manager Dorset Realty of Canada Ltd</description></item><item><title>What Others are saying...</title><link>/recommend/recommend2/</link><pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate><guid>/recommend/recommend2/</guid><description>&amp;ldquo;We have enjoyed working with TMi since 1990. Always pleased with their team&amp;rsquo;s attention to detail and excellent communication.&amp;rdquo; -- Bunny Porteous, Senior Property Manager First Services Residential
+TMi has been steady and reliable for many years comparing with other janitorial contractors we came across in the past years … -- Andrew Hui, Property Manager Dorset Realty of Canada Ltd</description>
+    </item>
+    
+    <item>
+      <title>What Others are saying...</title>
+      <link>/recommend/recommend2/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
+      
+      <guid>/recommend/recommend2/</guid>
+      <description>&amp;ldquo;We have enjoyed working with TMi since 1990. Always pleased with their team&amp;rsquo;s attention to detail and excellent communication.&amp;rdquo; -- Bunny Porteous, Senior Property Manager First Services Residential
 “Highly Recommend your firm for going the extra mile. Great Staff” -- Liz Der, Operations Coordinator Gammon International
-TMi has been steady and reliable for many years comparing with other janitorial contractors we came across in the past years … -- Andrew Hui, Property Manager Dorset Realty of Canada Ltd</description></item></channel></rss>
+TMi has been steady and reliable for many years comparing with other janitorial contractors we came across in the past years … -- Andrew Hui, Property Manager Dorset Realty of Canada Ltd</description>
+    </item>
+    
+  </channel>
+</rss>
