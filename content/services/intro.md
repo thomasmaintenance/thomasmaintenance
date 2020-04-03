@@ -5,15 +5,16 @@ title = "We provide a wide range of Janitorial Services..."
 weight = 1
 
 +++
-### Power washing
+*	### Power washing
 
-### Professional Carpet Cleaning
+*	### Professional Carpet Cleaning
 
-### Window Cleaning
+*	### Window Cleaning
 
-### Commercial Floor Scrubbing/Buffing
+*	### Commercial Floor Scrubbing/Buffing
 
-### Recycling Bin Services
+*	### Recycling Bin Services
+&nbsp;  
 
 We will maintain your recycling areas and ensure that all recycling and organics bins are placed at curbside on pick up days. 
 
