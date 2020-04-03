@@ -17,15 +17,25 @@ sections:
   path: content
   label: Pages
   create: all
-  match: "*"
+  match: "**/*"
 - type: directory
-  path: content/services
-  label: Services
+  path: content/notice
+  label: Notice
   create: all
   match: "**/*"
 - type: directory
   path: content/about
   label: About
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/recommend
+  label: Testimonials
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/services
+  label: Services
   create: all
   match: "**/*"
 upload_dir: static/img
