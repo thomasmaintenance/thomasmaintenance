@@ -6,11 +6,6 @@ webhook_url:
 sections:
 - type: heading
   label: Data
-- type: directory
-  path: data
-  label: data
-  create: all
-  match: "**/*"
 - type: heading
   label: Content
 - type: directory
