@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Notices on Thomas Maintenance</title><link>/notice/</link><description>Recent content in Notices on Thomas Maintenance</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 02 Apr 2020 12:08:35 +0000</lastBuildDate><atom:link href="/notice/index.xml" rel="self" type="application/rss+xml"/><item><title>A message to our clients and property managers</title><link>/notice/notice/</link><pubDate>Thu, 02 Apr 2020 12:08:35 +0000</pubDate><guid>/notice/notice/</guid><description>***Please be assured that our janitors are putting forth an earnest effort to diligently disinfect all common door handles, exit door push bars, elevator panels and all other surfaces where people can touch. Please stay safe.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notices on Thomas Maintenance</title>
+    <link>/notice/</link>
+    <description>Recent content in Notices on Thomas Maintenance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Apr 2020 12:08:35 +0000</lastBuildDate>
+    
+	<atom:link href="/notice/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A message to our clients and property managers</title>
+      <link>/notice/notice/</link>
+      <pubDate>Thu, 02 Apr 2020 12:08:35 +0000</pubDate>
+      
+      <guid>/notice/notice/</guid>
+      <description>***Please be assured that our janitors are putting forth an earnest effort to diligently disinfect all common door handles, exit door push bars, elevator panels and all other surfaces where people can touch. Please stay safe.</description>
+    </item>
+    
+  </channel>
+</rss>
