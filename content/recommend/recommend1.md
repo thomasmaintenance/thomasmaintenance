@@ -6,8 +6,10 @@ title = "What Others are saying..."
 
 * #### “We have been using TMi for 20 years with great success, I highly recommend their services based on quality of work and their ability to work in a team environment.”
 
-+ Tyler Patroch, Director of Course and Grounds.
-+ Point Grey Golf Course, Vancouver
+	+ Tyler Patroch, Director of Course and Grounds.
+	  Point Grey Golf Course, Vancouver
+&nbsp;    
+&nbsp;    
 
 * #### "We have enjoyed working with TMi since 1990. Always pleased with their team's attention to detail and excellent communication."
 
