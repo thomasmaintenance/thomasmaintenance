@@ -4,6 +4,10 @@ title = "What Others are saying..."
 
 +++
 
+* #### “We have been using TMi for 20 years with great success, I highly recommend their services based on quality of work and their ability to work in a team environment.”
+
++ Tyler Patroch, Director of Course and Grounds.
++ Point Grey Golf Course, Vancouver
 
 * #### "We have enjoyed working with TMi since 1990. Always pleased with their team's attention to detail and excellent communication."
 
@@ -26,3 +30,4 @@ title = "What Others are saying..."
 * #### "The best thing about the team from Thomas Maintenance was the peace of mind they gave us. You knew that when they left, the building was clean from top to bottom."
 
 	+ C. Montgomery, former president, The Greenhorn
+
