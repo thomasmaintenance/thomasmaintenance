@@ -23,11 +23,6 @@ title = "What Others are saying..."
 &nbsp;    
 &nbsp;    
 
-* #### TMi has been steady and reliable for many years comparing with other janitorial contractors we came across in the past years …
-
-	+ Andrew Hui, Property Manager Dorset Realty of Canada Ltd
-&nbsp;    
-&nbsp;    
 
 * #### "The best thing about the team from Thomas Maintenance was the peace of mind they gave us. You knew that when they left, the building was clean from top to bottom."
 
