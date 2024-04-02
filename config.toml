@@ -9,7 +9,7 @@ title = "Thomas Maintenance"
     description = "Janitorial Services for Residential and Commercial Stratas"
 
 [[params.social]]
-    title = "email"
+    title = "info@thomasmaintenance.com"
     icon = "envelope-o"
     url = "mailto:info@thomasmaintenance.com"
 [[params.social]]
