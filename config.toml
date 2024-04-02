@@ -3,14 +3,16 @@ canonifyUrls = "true"
 languageCode = "en-us"
 theme = "landing-page-hugo"
 title = "Thomas Maintenance"
+
 [params]
-custom_css = ["css/local.css"]
-description = "Janitorial Services for Residential and Commercial Stratas"
+    custom_css = ["css/local.css"]
+    description = "Janitorial Services for Residential and Commercial Stratas"
+
 [[params.social]]
-icon = "envelope-o"
-title = "email"
-url = "mailto:info@thomasmaintenance.com"
+    title = "email"
+    icon = "envelope-o"
+    url = "mailto:info@thomasmaintenance.com"
 [[params.social]]
-icon = ""
-title = "(604) 731-6167"
-url = "tel:+16047316167"
+    title = "(604) 731-6167"
+    icon = "phone"
+    url = "tel: (604) 731-6167"
