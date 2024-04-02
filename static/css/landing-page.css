@@ -146,6 +146,7 @@ h3{
     margin-top: 0;
 }
 
+
 @media(max-width:1199px) {
     ul.contact-social-buttons {
         float: left;
@@ -178,4 +179,8 @@ footer {
 
 p.copyright {
     margin: 15px 0 0;
+}
+
+.contact-social-buttons {
+  display: flex;
 }
