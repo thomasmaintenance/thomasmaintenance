@@ -4,6 +4,16 @@ title = "What Others are saying..."
 
 +++
 
+* #### “SDW and Thomas Maintenance have worked together for over 20 years. Their
+communication and workmanship despite the hurdles and challenges of there
+industry has always been excellent.  We highly recommend Thomas Maintenance,
+you’ll have the peace of mind that your property is in good hands and being
+well taken care of.  Complaint free!”
+
+	+ James Woodman – S.D. Woodman Management Ltd
+&nbsp;    
+&nbsp;    
+
 * #### “We have been using TMi for 20 years with great success, I highly recommend their services based on quality of work and their ability to work in a team environment.”
 
 	+ Tyler Patroch, Director of Course and Grounds.
