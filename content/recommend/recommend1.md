@@ -4,11 +4,7 @@ title = "What Others are saying..."
 
 +++
 
-* #### “SDW and Thomas Maintenance have worked together for over 20 years. Their
-communication and workmanship despite the hurdles and challenges of there
-industry has always been excellent.  We highly recommend Thomas Maintenance,
-you’ll have the peace of mind that your property is in good hands and being
-well taken care of.  Complaint free!”
+* #### “SDW and Thomas Maintenance have worked together for over 20 years. Their communication and workmanship despite the hurdles and challenges of their industry has always been excellent.  We highly recommend Thomas Maintenance, you’ll have the peace of mind that your property is in good hands and being well taken care of.  Complaint free!”
 
 	+ James Woodman – S.D. Woodman Management Ltd
 &nbsp;    
