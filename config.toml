@@ -5,14 +5,10 @@ theme = "landing-page-hugo"
 title = "Thomas Maintenance"
 
 [params]
-    custom_css = ["css/local.css"]
-    description = "Janitorial Services for Residential and Commercial Stratas"
+custom_css = ["css/local.css"]
+description = "Janitorial Services for Residential and Commercial Stratas"
 
 [[params.social]]
-    title = "info@thomasmaintenance.com"
-    icon = "envelope-o"
-    url = "mailto:info@thomasmaintenance.com"
-[[params.social]]
-    title = "(604) 731-6167"
-    icon = "phone"
-    url = "tel: (604) 731-6167"
+title = "info@thomasmaintenance.com"
+icon = "envelope-o"
+url = "mailto:info@thomasmaintenance.com"
